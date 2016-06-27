@@ -48,14 +48,14 @@ description: >-
   she’ll continue to dance like no one’s watching, write like she stole our
   collective diary, and inevitably soar to ever-greater heights. All that’s left
   to wonder is how many more lives she’ll lift in the process.
-datePublished: '2016-06-27T13:22:44.201Z'
-dateModified: '2016-06-27T13:22:33.095Z'
-authors: []
-publisher: null
+datePublished: '2016-06-27T13:29:21.759Z'
+dateModified: '2016-06-27T13:22:51.818Z'
 title: ''
 author: []
-starred: false
 sourcePath: _posts/2016-06-27-she-is-quite-simply-a-global-superstar-taylor-swift-is-a.md
+authors: []
+publisher: null
+starred: false
 url: she-is-quite-simply-a-global-superstar-taylor-swift-is-a/index.html
 _type: Article
 
